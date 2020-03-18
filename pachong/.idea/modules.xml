@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Aqi/.idea/Aqi.iml" filepath="$USER_HOME$/Aqi/.idea/Aqi.iml" />
+      <module fileurl="file://$USER_HOME$/BD/.idea/BD.iml" filepath="$USER_HOME$/BD/.idea/BD.iml" />
+      <module fileurl="file://$USER_HOME$/JD/.idea/JD.iml" filepath="$USER_HOME$/JD/.idea/JD.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/meiduo_admin_project/meiduo_admin_project/.idea/meiduo_admin_project.iml" filepath="$USER_HOME$/Desktop/meiduo_admin_project/meiduo_admin_project/.idea/meiduo_admin_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pachong.iml" filepath="$PROJECT_DIR$/.idea/pachong.iml" />
+      <module fileurl="file://$USER_HOME$/request_manager/.idea/request_manager.iml" filepath="$USER_HOME$/request_manager/.idea/request_manager.iml" />
+      <module fileurl="file://$USER_HOME$/spider1/.idea/spider1.iml" filepath="$USER_HOME$/spider1/.idea/spider1.iml" />
+    </modules>
+  </component>
+</project>
